@@ -1,0 +1,136 @@
+#isearch_list_ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+    margin:20px 30px;
+    font-size: 20px;
+}
+
+#isearch_list_ul li{
+    list-style: none;
+}
+
+#isearch_list_ul .isheaders{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+
+}
+
+#isearch_list_ul .isitems{
+    padding: 5px;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+#isearch_list_ul .isitems a{
+    color:#1E5785;
+
+}
+
+#isearch_reuslt{
+    background-color: #F8F8F8;
+    border: 1px solid #EEEEEE;
+    float: left;
+    margin: 4% 5% 0;
+    width: 89%;
+}
+
+#isearch_text{
+    -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1) inset;
+    background: none repeat scroll 0 0 #FAFAFA;
+    border: 1px solid #DDDDDD;
+    color: #000000;
+    font-weight: bold;
+    height: 25px;
+    margin: 5px 25%;
+    padding: 10px 0;
+    text-align: center;
+    width: 49%;
+}
+
+#isearch_info{
+    background-color: #F4F4F4;
+    text-align: center;
+}
+#isearch_info_ins{
+    background-color: #3373C1;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px 0;
+    text-align: center;
+}
+
+#isearch_info p{
+    padding: 10px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#isearch_info_con{
+    display: none;
+}
+
+.result_page{
+    background-color: #8FBAFF;
+    padding: 5px;
+    text-align: center;
+    margin-right:10px;
+    width: 75px;
+    float: left;
+}
+.result_post{
+    background-color: #337BB5;
+    color: #FFFFFF;
+    float: left;
+    margin-right: 10px;
+    padding: 5px;
+    text-align: center;
+    width: 75px;
+
+}
+
+.result_post_comp{
+    padding-top: 5px;
+}
+.result_page_comp{
+    padding-top: 5px;
+}
+
+#view_tour_isearch{
+    background-color: #749FD2;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+    text-shadow: 2px 2px 1px #183667;
+    width: 150px;
+}
+
+#tour_btn_start{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.isearch_intro{
+    font-size: 44px;
+    font-weight: bold;
+    padding: 30px 0;
+    text-align: center;
+    
+    width: 100%;
+}
+.isearch_intro #p1{
+    font-size: 50px;
+    text-shadow: 2px 2px 2px #6B6C6D;
+}
+.isearch_intro #p2{
+    color: #6392CC;
+    font-size: 40px;
+    padding-top: 10px;
+    text-shadow: 1px 1px 1px #002198;
+}
