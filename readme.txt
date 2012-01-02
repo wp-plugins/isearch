@@ -11,17 +11,25 @@ ISearch is a live blog search plugin which allows you to view filtered results l
 == Description ==
 
 <strong>About ISearch ?</strong>
+
+
 ISearch is a wordpress post and page search plugin which allows users to filter content as they type the search text. Users can view the prefered results like
 a site tour.
 
 <strong>View ISearch Demo</strong>
+
+
 http://www.innovativephp.com/search
 
 
 <strong>What can you do with ISearch</strong>
-1. Allow users to find the content very quickly.
-2. View the pages you want like a site tour.
-3. Increase blog page views and user experience using tour effect.
+
+<ul style="color: #203D6A;&lt;br /&gt;
+    font-weight: bold;">
+<li>Allow users to find the content very quickly.</li>
+<li>View the pages you want like a site tour.</li>
+<li>Increase blog page views and user experience using tour effect.</li>
+</ul>
 
 
 == Installation ==
